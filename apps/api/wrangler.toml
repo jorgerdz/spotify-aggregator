@@ -1,0 +1,15 @@
+name = "spotify-aggregator-api"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[vars]
+FRONTEND_URL = "https://spotify-aggregator.pages.dev"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "016fecc67b43427887517c0de499921d"
+preview_id = "placeholder-will-be-created"
+
+# Secrets (set via `wrangler secret put`):
+# SPOTIFY_CLIENT_ID
+# SPOTIFY_CLIENT_SECRET

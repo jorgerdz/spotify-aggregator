@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/publishpanel.tsx","./src/hooks/useauth.ts","./src/hooks/usemergepreview.ts","./src/hooks/useplaylists.ts","./src/lib/api.ts","./src/pages/callback.tsx","./src/pages/home.tsx","./src/pages/login.tsx","./src/pages/mergepreview.tsx"],"version":"5.9.3"}
